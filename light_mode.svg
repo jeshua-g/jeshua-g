@@ -28,12 +28,12 @@ text, tspan {white-space: pre;}
 <tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ................. </tspan><tspan class="value" id="age_data">23 years, 6 months, 17 days</tspan>
 <tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">Philippines, Asia/Singapore</tspan>
 <tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Systems-focused developer</tspan>
-<tspan x="390" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">Cursor</tspan>
-<tspan x="390" y="150" class="cc">. </tspan>
-<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">TypeScript, JavaScript, Python</tspan>
-<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">HTML, CSS, SQL, YAML</tspan>
-<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">English, Filipino</tspan>
-<tspan x="390" y="230" class="cc">. </tspan>
+<tspan x="390" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">Cursor, VSCode, Sublime</tspan>
+<tspan x="390" y="150" class="cc">. </tspan><tspan class="key">IDE</tspan>.<tspan class="key">Larping</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">VIM</tspan>
+<tspan x="390" y="170" class="cc">. </tspan>
+<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">TypeScript, JavaScript, Python</tspan>
+<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">HTML, CSS, SQL, YAML</tspan>
+<tspan x="390" y="230" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">English, Filipino</tspan>
 <tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Work</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">Websites, systems, automation</tspan>
 <tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Work</tspan>.<tspan class="key">Hosting</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">Docker, VPS, Cloudflare</tspan>
 <tspan x="390" y="310">- Contact -———————————————————————————————————————————————</tspan>
