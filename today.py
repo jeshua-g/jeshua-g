@@ -312,7 +312,9 @@ def stars_counter(data):
     Count total stars in repositories owned by me
     """
     total_stars = 0
-    for node in data: total_stars += node['node']['stargazers']['totalCount']
+    for node in data:
+        # stargazers can come back null for repos the token can't fully read
+        total_stars += ((node.get('node') or {}).get('stargazers') or {}).get('totalCount', 0)
     return total_stars
 
 
