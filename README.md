@@ -13,4 +13,6 @@
   <a href="https://jdump.com">jdump.com</a>
   &nbsp;·&nbsp;
   <a href="https://jeshuagalao.dev">jeshuagalao.dev</a>
+  &nbsp;·&nbsp;
+  <a href="https://chat.jdump.com">chat.jdump.com</a>
 </p>
