@@ -11,4 +11,6 @@
   <a href="https://jeshuagalao.dev/booking">Book a call</a>
   &nbsp;·&nbsp;
   <a href="https://jdump.com">jdump.com</a>
+  &nbsp;·&nbsp;
+  <a href="https://jeshuagalao.dev">jeshuagalao.dev</a>
 </p>
