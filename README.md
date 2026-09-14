@@ -23,5 +23,6 @@ I'm a full-stack developer building websites, business systems, and automation f
 
 ## Featured Work
 
+- **[DFPH](https://digitalfreedomph.com/)** — Flowchart editor (tldraw + Mermaid), Wistia-style video hosting, LLM agent chat, and a Discord meeting bot.
 - **[ROX Coffee + Bar](https://rox-coffee-bar.pages.dev)** — Live café site in Parañaque, still finalizing with the client.
 - **[Valley Aroma](https://valley-aroma.com)** — Client site with a working digital loyalty/stamp card system.
