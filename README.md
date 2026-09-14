@@ -16,3 +16,12 @@
   &nbsp;·&nbsp;
   <a href="https://chat.jdump.com">chat.jdump.com</a>
 </p>
+
+## About Me
+
+I'm a full-stack developer building websites, business systems, and automation for small businesses and agencies. I started coding as a hobby at 12 and have been taking on client work since 2022, about 4 years of practical experience across frontend, backend, and workflow automation (GoHighLevel, n8n, and similar tools).
+
+## Featured Work
+
+- **[ROX Coffee + Bar](https://rox-coffee-bar.pages.dev)** — Live café site in Parañaque, still finalizing with the client.
+- **[Valley Aroma](https://valley-aroma.com)** — Client site with a working digital loyalty/stamp card system.
